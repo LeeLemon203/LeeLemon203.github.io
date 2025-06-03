@@ -5,9 +5,11 @@ Hi there!👋This is Chenning Li.
 
 ## Identity
 
-I am an undergraduate in the School of Computer Science and Technology, Xi'an Jiaotong University.
+I am an undergraduate in the School of Computer Science and Technology, Xi'an Jiaotong University. (2023~2027)
 
-I am interested in computer networks. And I am looking for some projects that are related to computer networks in order to enhance my capability.
+I am a contributor to [xjtu-ics/textbook](https://github.com/xjtu-ics/textbook). And I am looking forward to working on variable projects on GitHub.
+
+I am interested in computer networks. I also plan to work on some projects that are related to computer networks.
 
 ## Hobbies
 
