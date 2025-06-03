@@ -27,9 +27,9 @@ Btw, I am a member of the Dragon Boat Club in our university.
 
 👧Definitely female👧
 
-# How to reach me📧
+# How to reach me
 
-Email: 
+Email 📧
 
 helenlee1811@163.com
 
