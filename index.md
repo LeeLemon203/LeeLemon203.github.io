@@ -1,24 +1,30 @@
+Hi there!👋This is Chenning Li.
+
 # Welcome to Chenning's Homepage!
 
 
 
-### Identity
+## Identity
 
 I am an undergraduate in the School of Computer Science and Technology, Xi'an Jiaotong University.
 
 I am interested in computer networks. Looking for some projects that are related to computer networks.
 
-### Hobbies
+## Hobbies
 
-* 📖reading
-* 🏀basketball
-* 🚴‍♀bicycling
-* 🚣‍♀️boating
-* etc.
+📖reading
+
+🏀basketball
+
+🚴‍♀bicycling
+
+🚣‍♀️boating
+
+etc...
 
 Btw, I am a member of the Dragon Boat Club in our university.
 
-## How to reach me📧
+# How to reach me📧
 
 Email: 
 
