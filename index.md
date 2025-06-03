@@ -6,7 +6,7 @@ I am interested in computer networks.
 
 Plus, I have a few hobbies. E.g. reading, basketball, bicycling, boating, etc.
 
-## How to access me:
+## How to reach me:
 
 Email: 
 
