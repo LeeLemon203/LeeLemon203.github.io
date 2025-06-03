@@ -1,12 +1,22 @@
-# Welcome to Chenning's homepage!
+# About🙇‍♀️
+
+## Identity
 
 I am an undergraduate in the School of Computer Science and Technology, Xi'an Jiaotong University.
 
-I am interested in computer networks.
+I am interested in computer networks. Looking for some projects that are related to computer networks.
 
-Plus, I have a few hobbies. E.g. reading, basketball, bicycling, boating, etc.
+## Hobbies
 
-## How to reach me:
+* 📖reading
+* 🏀basketball
+* 🚴‍♀bicycling
+* 🚣‍♀️boating
+* etc.
+
+Btw, I am a member of the Dragon Boat Club in our university.
+
+# How to reach me📧
 
 Email: 
 
@@ -14,6 +24,6 @@ helenlee1811@163.com
 
 lcn045409@xjtu.stu.edu.cn
 
-GitHub: [https://github.com/LeeLemon203](https://github.com/LeeLemon203)
+
 
 Plz feel free to contact me!
