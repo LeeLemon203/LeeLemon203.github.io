@@ -1,6 +1,6 @@
 # Welcome to Chenning's Homepage!
 
-## About🙇‍♀️
+
 
 ### Identity
 
