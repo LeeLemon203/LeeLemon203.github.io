@@ -4,3 +4,4 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: [Welcome to Chenning's Homepage!]
 description: [-- A Brief Self Intro]
+show_downloads: [true]
