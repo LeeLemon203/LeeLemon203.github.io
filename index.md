@@ -13,6 +13,8 @@ I am interested in computer networks. I also plan to work on some projects that 
 
 ## Hobbies
 
+I am a kind-of-sporty girl. Here are a few of my hobbies:
+
 📖 Reading
 
 🏀 Basketball
