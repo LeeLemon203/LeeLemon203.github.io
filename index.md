@@ -43,7 +43,3 @@ lcn045409@xjtu.stu.edu.cn
 
 Plz feel free to contact me!
 
----------
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Page Views: <span id="busuanzi_value_site_pv"></span>times</span>
