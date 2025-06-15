@@ -42,3 +42,9 @@ lcn045409@xjtu.stu.edu.cn
 ----------
 
 Plz feel free to contact me!
+
+---------
+
+<span id="busuanzi_container_site_pv">    
+	Page Views: <span id="busuanzi_value_site_pv"></span>times
+</span>
